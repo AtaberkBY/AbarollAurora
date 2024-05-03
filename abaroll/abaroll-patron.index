@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="patron-eone.xml" url="" />
+		<file name="patron-eone.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-patron/patron-eone.xml" />
 	</files>
 </index>

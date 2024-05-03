@@ -5,7 +5,7 @@
 		<description>Ava'nın en büyük yardımcısı</description>
 		<author>Lycane</author>
 		<update version="0.0.6">
-			<file name="patron-eone.xml" url="" />
+			<file name="patron-eone.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-patron/patron-eone.xml" />
 		</update>
 	</info>
 
