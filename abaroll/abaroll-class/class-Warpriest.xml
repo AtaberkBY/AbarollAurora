@@ -136,7 +136,7 @@
 		</rules>
 	</element>
 
-	<element name="Double Concentration" type="Class Feature" source="The War Priest by Lycane" id="ID_CLASS_FEATURE_DOUBLE_CONCENTRATION">
+	<element name="Triple Concentration" type="Class Feature" source="The War Priest by Lycane" id="ID_CLASS_FEATURE_DOUBLE_CONCENTRATION">
 		<sheet>
 			<description>
 				<p>War Priests possess the rare ability to concentrate on two tasks at once ,a rare ability whispered to originate from the gods themselves.</p>
