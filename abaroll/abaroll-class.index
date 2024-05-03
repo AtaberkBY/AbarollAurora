@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Odyssey of the Dragonlords</name>
+		<update version="0.0.2">
+			<file name="abaroll-class.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords.index" />
+		</update>
+	</info>
+	<files>
+		<file name="items-gifts.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/items-gifts.xml" />
+	</files>
+</index>
