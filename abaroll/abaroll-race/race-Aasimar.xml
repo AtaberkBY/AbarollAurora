@@ -3,7 +3,7 @@
 	<info>
 		<name>Aasimar from Monsters of the Multiverse</name>
 		<update version="0.0.1">
-			<file name="race-Aasimar.xml" url="" />
+			<file name="race-Aasimar.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-race/race-Aasimar.xml" />
 		</update>
 	</info>
 

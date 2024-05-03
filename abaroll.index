@@ -9,5 +9,8 @@
 	<files>
 		<file name="abaroll-class.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-class.index" />
 		<file name="abaroll-spell.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-spell.index" />
+		<file name="abaroll-race.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-race.index" />
+		<file name="abaroll-item.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-item.index" />
+
 	</files>
 </index>

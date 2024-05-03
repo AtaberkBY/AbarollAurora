@@ -7,7 +7,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="race-Aasimar.xml" url="" />
-        <file name="race-Ape.xml" url="" />
+		<file name="race-Aasimar.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-race/race-Aasimar.xml" />
+        <file name="race-Ape.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-race/race-Ape.xml" />
 	</files>
 </index>

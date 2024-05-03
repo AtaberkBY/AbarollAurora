@@ -5,7 +5,7 @@
 		<description></description>
 		<author>Lycane</author>
 		<update version="0.0.7">
-			<file name="item-custom.xml" url="" />
+			<file name="item-custom.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-item/item-custom.xml" />
 		</update>
 	</info>
 
