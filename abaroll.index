@@ -3,7 +3,7 @@
 	<info>
 		<name>Aba roll</name>
 		<update version="0.0.2">
-			<file name="abaroll.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/tree/main/abaroll.index" />
+			<file name="abaroll.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll.index" />
 		</update>
 	</info>
 	<files>
