@@ -7,7 +7,7 @@
 			<file name="spell-Warpriest.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-spell/spell-Warpriest.xml" />
 		</update>
 	</info>
-
+	
     <element name="Divine word: Paralyze(Infige immobilitatem)" type="Spell" source="The War Priest by Lycane" id="ID_SPELL_DIVINE_WORD_PARALYZE(INFIGE IMMOBILITATEM)">
     	<description>
 			<p>Regula et Poena'dan duyabilecek 60 feet içinde bir yaratığa kutsal bir sözcük haykırırsın. Yaratık bir adet wisdom saving throw atar. Başarısız olduğu durumda iradene karşı koyamaz ve tur tekrardan sana gelene kadar paralize olur.</p>
