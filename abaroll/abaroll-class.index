@@ -3,10 +3,11 @@
 	<info>
 		<name>Odyssey of the Dragonlords</name>
 		<update version="0.0.2">
-			<file name="abaroll-class.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords.index" />
+			<file name="abaroll-class.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-class.index" />
 		</update>
 	</info>
 	<files>
-		<file name="items-gifts.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/items-gifts.xml" />
+		<file name="class-Necromancer.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-class/class-Necromancer.xml" />
+		<file name="class-Warpriest.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-class/class-Warpriest.xml" />
 	</files>
 </index>
