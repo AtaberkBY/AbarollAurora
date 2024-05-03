@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>Odyssey of the Dragonlords</name>
+		<name>Aba roll Homebrew Classes</name>
 		<update version="0.0.2">
 			<file name="abaroll-class.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-class.index" />
 		</update>

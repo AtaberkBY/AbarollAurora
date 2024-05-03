@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>Odyssey of the Dragonlords</name>
+		<name>Aba Roll Homebrew Spells</name>
 		<update version="0.0.2">
 			<file name="abaroll-spell.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-spell.index" />
 		</update>
