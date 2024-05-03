@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Aba Roll Homebrew Patrons</name>
+		<update version="0.0.2">
+			<file name="abaroll-patron.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-patron.index" />
+		</update>
+	</info>
+	<files>
+		<file name="patron-eone.xml" url="" />
+	</files>
+</index>
