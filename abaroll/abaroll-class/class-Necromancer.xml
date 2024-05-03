@@ -2,10 +2,10 @@
 <elements>
 	<info>
 		<name>Necromancer</name>
-		<description>The Necromancer class from the Special wonderland of Lycane.</description>
-		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/Special-Wonderland-of-Lycane">Lycane</author>
+		<description>The Necromancer class by Lycane.</description>
+		<author>Lycane</author>
 		<update version="0.4.2">
-			<file name="class-Necromancer.xml" url="" />
+			<file name="class-Necromancer.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-class/class-Necromancer.xml" />
 		</update>
 	</info>
 

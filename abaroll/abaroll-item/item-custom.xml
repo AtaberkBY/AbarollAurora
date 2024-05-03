@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Armor</name>
+		<description></description>
+		<author>Lycane</author>
+		<update version="0.0.7">
+			<file name="item-custom.xml" url="" />
+		</update>
+	</info>
+
+    <element name="Armor, +3, ApoLi" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_3_ApoLi">
+        <description>
+            <p>+3 AC üstüne yetmezmiş gibi günde 3 kere bonus aksiyon olarak görünmez olabilir ve 2 kere misty step atabilirsin.</p>
+        </description>
+        <setters>
+            <set name="category">Magic Armor</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="slot">body</set>
+            <set name="type" addition="light, medium, or heavy">Armor</set>
+            <set name="rarity">Legendary</set>
+            <set name="strength" />
+            <set name="stealth" />
+            <set name="supports" />
+            <set name="enhancement">3</set>
+            <set name="armor">ID_INTERNAL_ARMOR_GROUP_LIGHT|ID_INTERNAL_ARMOR_GROUP_MEDIUM|ID_INTERNAL_ARMOR_GROUP_HEAVY</set>
+            <set name="name-format">{{parent}} +{{enhancement}}</set>
+        </setters>
+        <rules>
+            <stat name="ac:armored:enhancement" value="3" bonus="enhancement" />
+        </rules>
+    </element>
+
+    <element name="Blessing of Mighty Handsome" type="Item" source="The Book of Many Things" id="ID_WOTC_BOMT_ITEM_BLESSING_OF_Mighty_Handsome">
+        <description>
+            <p>Your Charisma score increases by 2, to a maximum of 22.</p>
+            <p class="indent"><strong>Consequence.</strong> Gotten girim</p>
+        </description>
+        <setters>
+            <set name="category">Supernatural Gifts</set>
+            <set name="type">Blessing</set>
+            <set name="slot">gift</set>
+        </setters>
+        <rules>
+            <stat name="charisma" value="2" />
+            <stat name="charisma:max" value="2" />
+        </rules>
+    </element>
+
+    <element name="Blessing of Fast of Cat" type="Item" source="The Book of Many Things" id="ID_WOTC_BOMT_ITEM_BLESSING_OF_Fast_Of_Cat">
+        <description>
+            <p>Your Dexterity score increases by 2, to a maximum of 22.</p>
+            <p class="indent"><strong>Consequence.</strong> Gotten girim</p>
+        </description>
+        <setters>
+            <set name="category">Supernatural Gifts</set>
+            <set name="type">Blessing</set>
+            <set name="slot">gift</set>
+        </setters>
+        <rules>
+            <stat name="dexterity" value="2" />
+            <stat name="dexterity:max" value="2" />
+        </rules>
+    </element>
+
+
+</elements>

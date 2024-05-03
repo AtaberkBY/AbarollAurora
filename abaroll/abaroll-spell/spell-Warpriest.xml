@@ -2,8 +2,9 @@
 <elements>
 	<info>
 		<name>SpellsCustom</name>
+		<author>Lycane</author>
 		<update version="0.5.3">
-			<file name="spell-Warpriest.xml" url="" />
+			<file name="spell-Warpriest.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-spell/spell-Warpriest.xml" />
 		</update>
 	</info>
 

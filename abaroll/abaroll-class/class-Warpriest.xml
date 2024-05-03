@@ -2,9 +2,10 @@
 <elements>
 	<info>
 		<name>War priest</name>
+		<author>Lycane</author>
 		<description>The War priest class by Lycane.</description>
 		<update version="0.3.3">
-			<file name="class-Warpriest.xml" url="" />
+			<file name="class-Warpriest.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-class/class-Warpriest.xml" />
 		</update>
 	</info>
 

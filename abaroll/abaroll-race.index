@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Aba Roll Homebrew Races</name>
+		<update version="0.0.2">
+			<file name="abaroll-race.index" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-race.index" />
+		</update>
+	</info>
+	<files>
+		<file name="race-Aasimar.xml" url="" />
+        <file name="race-Ape.xml" url="" />
+	</files>
+</index>
