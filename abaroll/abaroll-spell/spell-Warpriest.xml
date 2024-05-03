@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>SpellsCustom</name>
+		<update version="0.5.3">
+			<file name="spellsCustom.xml" url="" />
+		</update>
+	</info>
+
+    <element name="Divine word: Paralyze(Infige immobilitatem)" type="Spell" source="The War Priest by Lycane" id="ID_SPELL_DIVINE_WORD_PARALYZE(INFIGE IMMOBILITATEM)">
+    	<description>
+			<p>Regula et Poena'dan duyabilecek 60 feet içinde bir yaratığa kutsal bir sözcük haykırırsın. Yaratık bir adet wisdom saving throw atar. Başarısız olduğu durumda iradene karşı koyamaz ve tur tekrardan sana gelene kadar paralize olur.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">Instant</set>
+			<set name="duration">10 minutes</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+    <element name="Divine word: Silence(Silentium)" type="Spell" source="The War Priest by Lycane" id="ID_SPELL_DIVINE_WORD_SILENCE(SILENTIUM)">
+		<description>
+			<p>Regula et Poena'dan duyabilecek 60 feet içinde bir yaratığa kutsal bir sözcük haykırırsın. Yaratık bir adet wisdom saving throw atar. Başarısız olduğu durumda iradene karşı koyamaz ve tur tekrardan sana gelene kadar boğazından bir tek ses bile çıkamaz hale gelir.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">Instant</set>
+			<set name="duration">10 minutes</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+	<element name="Divine word: Imprison(Captivare)" type="Spell" source="The War Priest by Lycane" id="ID_SPELL_DIVINE_WORD_IMPRISON(CAPTIVARE)">
+		<description>
+			<p>Tanrıların huzurunda suçlarını itiraf etmeden kurtulmaya çalışan ruhları bedenlerine hapsedersin. Sorgu esnasında yaratığın ruhunu vücuduna hapsedersin.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">Instant</set>
+			<set name="duration">5 questions</set>
+			<set name="range">20 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+    <element name="Divine word: Heal(Confervo)" type="Spell" source="The War Priest by Lycane" id="ID_SPELL_DIVINE_WORD_HEAL(CONFERVO)">
+		<description>
+			<p>Regula et Poena'dan duyabilecek bütün müttefikler için kutsal bir sözcük haykırırsın. Sesini duyan bütün dost varlıklar 3d6 iyileştirirsin.</p>
+			<p class="indent"><b><i>İlerleyen seviyelerde</i></b> 8. seviyeden sonraki her seviye için iyileştirme 2d4 artar.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">Instant</set>
+			<set name="duration">Instantaneous</set>
+			<set name="range">Touch</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+    <element name="Divine word: Terrorize(Terrorem instilla)" type="Spell" source="The War Priest by Lycane" id="ID_SPELL_DIVINE_WORD_TERRORIZE(TERROREM INSTILLA)">
+		<description>
+			<p>Regula et Poena'dan duyabilecek 60 feet içinde bir yaratığa kutsal bir sözcük haykırırsın. Yaratık bir adet wisdom saving throw atar. Başarısız olduğu durumda yaratık en büyük korkusun karşısında görür ve iradesini toparlamakta zorlandığı için etki süresi boyunca wisdom savelerini dezavantajlı atar.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">Instant</set>
+			<set name="duration">10 minutes</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+	<element name="Divine word: Confess(Confessionem Evoca)" type="Spell" source="The War Priest by Lycane" id="ID_SPELL_DIVINE_WORD_CONFESS(CONFESSIONEM EVOCA)">
+		<description>
+			<p>Regula et Poena'dan dokunabileceğin  bir yaratığa kutsal bir sözcük haykırırsın. Yaratık bir adet wisdom saving throw atar.
+			Başarısız olduğu durumda yaratık her yalan söylemeye çalıştığında 1d4 hasar alır. Yaratık doğruyu söylememek için ölmeyi tercih edebilir.
+			</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">Instant</set>
+			<set name="duration">5 Question</set>
+			<set name="range">Touch</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+
+    <element name="Divine word: Pain(TORMENTUM)" type="Spell" source="The War Priest by Lycane" id="ID_SPELL_DIVINE_WORD_PAIN(TORMENTUM)">
+		<description>
+			<p>Regula et Poena'dan duyabilecek 200 feet içinde bir yaratığa kutsal bir sözcük haykırırsın. Yaratık bir adet wisdom saving throw atar.
+			Başarısız olduğu durumda yaratık iraden karşısında acı çeker ve 5d12 hasar alır, tur tekrar yaratığa her geldiğinde wisdom save'i başarılı olana kadar tekrarlar.
+			Eğer toplamda canının yarısı kadar hasar alırsa, 1 adet dezavantajlı Constitution saving throw atar, başarısız olduğu durumda yaratık kurtulamaz şekilde paralize olur.
+			</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">10 minute</set>
+			<set name="duration">Instantaneous</set>
+			<set name="range">200 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+	<element name="Channel Divinity: Taunt" type="Spell" source="The War Priest by Lycane" id="ID_CHANNEL_DIVINITY_TAUNT">
+		<description>
+			<p>Harness the divine power and unleash insults upon your enemies with your holy tongue. Taunted foes must make a Wisdom saving throw against your spell DC. However, be warned that certain adversaries may persistently target you even after a successful roll.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">1 bonus action</set>
+			<set name="duration">1 minute</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">true</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+	<element name="Channel Divinity: Turn Undead" type="Spell" source="The War Priest by Lycane" id="ID_CHANNEL_DIVINITY_TURN_UNDEAD">
+		<description>Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+			A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">1 action</set>
+			<set name="duration">1 minute</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+	<element name="Channel Divinity: Divine Shield" type="Spell" source="The War Priest by Lycane" id="ID_CHANNEL_DIVINITY_DIVINE_SHIELD">
+		<description>
+			<p>A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.</p>
+			<p class="indent"><b><i> On level 8</i></b> The Divine Shield grants 20 temporary HP for the duration, as well. </p>
+			<p class="indent"><b><i> On level 12</i></b> The Divine Shield also grants resistance to incoming harm.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">1 bonus action</set>
+			<set name="duration">10 minute</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+	<element name="Channel Divinity: Zen Harmony" type="Spell" source="The War Priest by Lycane" id="ID_CHANNEL_DIVINITY_ZEN_HARMONY">
+		<description>
+			<p>You engage in meditation to mitigate the punishment inflicted upon you for pushing beyond your limits. You shouldn't be disturbed during this meditation.</p>
+			<p>The penalty reduction for Zen Harmony is determined by the player or dungeon master rolling a d10.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">1 long rest</set>
+			<set name="duration">8 hours</set>
+			<set name="range">self</set>
+			<set name="hasVerbalComponent">false</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">true</set>
+			<set name="isRitual">true</set>
+		</setters>
+	</element>
+
+	<element name="Channel Divinity: Divine Insight" type="Spell" source="The War Priest by Lycane" id="ID_CHANNEL_DIVINITY_DIVINE_INSIGHT">
+		<description>
+			<p>You heighten your senses and, while under this effect, you cannot be ambushed. You gain advantage on Perception and Insight checks, and you can sense the presence of demons/devils/celestial beings and magic within 90 feet.</p>
+			<p>It can be prepared and used as a ritual</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">1 action</set>
+			<set name="duration">1 hour</set>
+			<set name="range">self</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">true</set>
+			<set name="isRitual">true</set>
+		</setters>
+	</element>
+
+	<element name="Channel Divinity: Divine Command" type="Spell" source="The War Priest by Lycane" id="ID_CHANNEL_DIVINITY_DIVINE_COMMAND">
+		<description>
+			<p>Use the power comes from the divine sources and order one of your team member to make an attack, they use their reaction to attack and gain 1d6 to their attack roll. natural 19 roll counts as critical hit as well.</p>
+		</description>
+		<setters>
+			<set name="keywords"></set>
+			<set name="level">1</set>
+			<set name="school">Temple of Ava</set>
+			<set name="time">1 bonus action</set>
+			<set name="duration">Instantaneous</set>
+			<set name="range">60 feet</set>
+			<set name="hasVerbalComponent">true</set>
+			<set name="hasSomaticComponent">false</set>
+			<set name="hasMaterialComponent">false</set>
+			<set name="isConcentration">false</set>
+			<set name="isRitual">false</set>
+		</setters>
+	</element>
+
+
+
+
+
+
+
+
+
+</elements>
