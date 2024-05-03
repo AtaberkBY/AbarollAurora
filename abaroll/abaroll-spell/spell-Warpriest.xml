@@ -3,7 +3,7 @@
 	<info>
 		<name>SpellsCustom</name>
 		<update version="0.5.3">
-			<file name="spellsCustom.xml" url="" />
+			<file name="spell-Warpriest.xml" url="" />
 		</update>
 	</info>
 

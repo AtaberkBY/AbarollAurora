@@ -4,7 +4,7 @@
 		<name>War priest</name>
 		<description>The War priest class by Lycane.</description>
 		<update version="0.3.3">
-			<file name="Warpriest" url="" />
+			<file name="class-Warpriest.xml" url="" />
 		</update>
 	</info>
 
