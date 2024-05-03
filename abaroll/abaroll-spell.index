@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="spell-Warpriest" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-spell/spell-Warpriest.xml" />
+		<file name="spell-Warpriest.xml" url="https://raw.githubusercontent.com/AtaberkBY/AbarollAurora/main/abaroll/abaroll-spell/spell-Warpriest.xml" />
 	</files>
 </index>
