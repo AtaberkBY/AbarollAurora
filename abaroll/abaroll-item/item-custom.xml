@@ -79,7 +79,7 @@
 			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELD</set>
 		</setters>
 		<rules>
-			<stat name="ac:shield" value="2" bonus="shield" />
+			<stat name="ac:shield" value="3" bonus="shield" />
 		</rules>
 	</element>
 
