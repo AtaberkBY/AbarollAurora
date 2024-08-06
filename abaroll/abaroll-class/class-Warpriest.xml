@@ -177,18 +177,18 @@
 			<grant type="Grants" id="ID_INTERNAL_RITUAL_CASTING" />
 			<grant type="Proficiency" id="ID_INTERNAL_PROFICIENCY_SPELLFOCUS_GROUP_HOLY_SYMBOL" />
 
-			<stat name="war priest:spellcasting:slots:1" value="2" level="2" />
-			<stat name="war priest:spellcasting:slots:1" value="1" level="3" />
-			<stat name="war priest:spellcasting:slots:1" value="1" level="5" />
-			<stat name="war priest:spellcasting:slots:2" value="2" level="5" />
-			<stat name="war priest:spellcasting:slots:2" value="1" level="7" />
-			<stat name="war priest:spellcasting:slots:3" value="2" level="9" />
-			<stat name="war priest:spellcasting:slots:3" value="1" level="11" />
-			<stat name="war priest:spellcasting:slots:4" value="1" level="13" />
-			<stat name="war priest:spellcasting:slots:4" value="1" level="15" />
-			<stat name="war priest:spellcasting:slots:4" value="1" level="17" />
-			<stat name="war priest:spellcasting:slots:5" value="1" level="17" />
-			<stat name="war priest:spellcasting:slots:5" value="1" level="19" />
+			<stat name="war priest:spellcasting:slots:1" value="3" level="2" />
+			<stat name="war priest:spellcasting:slots:1" value="2" level="3" />
+			<stat name="war priest:spellcasting:slots:1" value="2" level="5" />
+			<stat name="war priest:spellcasting:slots:2" value="3" level="5" />
+			<stat name="war priest:spellcasting:slots:2" value="2" level="7" />
+			<stat name="war priest:spellcasting:slots:3" value="3" level="9" />
+			<stat name="war priest:spellcasting:slots:3" value="2" level="11" />
+			<stat name="war priest:spellcasting:slots:4" value="2" level="13" />
+			<stat name="war priest:spellcasting:slots:4" value="2" level="15" />
+			<stat name="war priest:spellcasting:slots:4" value="2" level="17" />
+			<stat name="war priest:spellcasting:slots:5" value="2" level="17" />
+			<stat name="war priest:spellcasting:slots:5" value="2" level="19" />
 			<stat name="war priest:spellcasting:prepare" value="wisdom:modifier" />
 			<stat name="war priest:spellcasting:prepare" value="level:war priest" />
 		</rules>
@@ -211,11 +211,12 @@
 		<sheet usage="{{channel divinity:count}}/Short Rest" />
 		<rules>
 			<stat name="channel divinity:count" value="1" bonus="base" />
-			<stat name="channel divinity:count" value="2" level="6" bonus="base" />
-			<stat name="channel divinity:count" value="3" level="8" bonus="base" />
-			<stat name="channel divinity:count" value="4" level="12" bonus="base" />
-			<stat name="channel divinity:count" value="5" level="15" bonus="base" />
-			<stat name="channel divinity:count" value="6" level="18" bonus="base" />
+			<stat name="channel divinity:count" value="2" level="4" bonus="base" />
+			<stat name="channel divinity:count" value="3" level="6" bonus="base" />
+			<stat name="channel divinity:count" value="4" level="8" bonus="base" />
+			<stat name="channel divinity:count" value="5" level="12" bonus="base" />
+			<stat name="channel divinity:count" value="6" level="15" bonus="base" />
+			<stat name="channel divinity:count" value="7" level="18" bonus="base" />
 		</rules>
 	</element>
 
@@ -251,7 +252,7 @@
 		</sheet>
         <rules>
             <stat name="ac" value="1" />
-			<stat name="hp" value="10"/>
+			<stat name="hp" value="15"/>
         </rules>
     </element>
 
@@ -281,14 +282,14 @@
 		</description>
 		<sheet usage="{{divine word:count}}/Short Rest" />
 		<rules>
-			<stat name="divine word:count" value="1" level="4" bonus="base" />
-			<stat name="divine word:count" value="2" level="6" bonus="base" />
-			<stat name="divine word:count" value="3" level="8" bonus="base" />
-			<stat name="divine word:count" value="4" level="10" bonus="base" />
-			<stat name="divine word:count" value="5" level="12" bonus="base" />
-			<stat name="divine word:count" value="6" level="14" bonus="base" />
-			<stat name="divine word:count" value="7" level="16" bonus="base" />
-			<stat name="divine word:count" value="8" level="18" bonus="base" />
+			<stat name="divine word:count" value="2" level="4" bonus="base" />
+			<stat name="divine word:count" value="4" level="6" bonus="base" />
+			<stat name="divine word:count" value="6" level="8" bonus="base" />
+			<stat name="divine word:count" value="8" level="10" bonus="base" />
+			<stat name="divine word:count" value="10" level="12" bonus="base" />
+			<stat name="divine word:count" value="12" level="14" bonus="base" />
+			<stat name="divine word:count" value="14" level="16" bonus="base" />
+			<stat name="divine word:count" value="16" level="18" bonus="base" />
 
 		</rules>
 	</element>
@@ -299,14 +300,14 @@
 		</spellcasting>
 		<rules>
 
-			<stat name="Divine Word:spellcasting:slots:1" value="1" level="4"/>
-			<stat name="Divine Word:spellcasting:slots:1" value="1" level="6"/>
-			<stat name="Divine Word:spellcasting:slots:1" value="1" level="8"/>
-			<stat name="Divine Word:spellcasting:slots:1" value="1" level="10"/>
-			<stat name="Divine Word:spellcasting:slots:1" value="1" level="12"/>
-			<stat name="Divine Word:spellcasting:slots:1" value="1" level="14"/>
-			<stat name="Divine Word:spellcasting:slots:1" value="1" level="16"/>
-			<stat name="Divine Word:spellcasting:slots:1" value="1" level="18"/>
+			<stat name="Divine Word:spellcasting:slots:1" value="2" level="4"/>
+			<stat name="Divine Word:spellcasting:slots:1" value="2" level="6"/>
+			<stat name="Divine Word:spellcasting:slots:1" value="2" level="8"/>
+			<stat name="Divine Word:spellcasting:slots:1" value="2" level="10"/>
+			<stat name="Divine Word:spellcasting:slots:1" value="2" level="12"/>
+			<stat name="Divine Word:spellcasting:slots:1" value="2" level="14"/>
+			<stat name="Divine Word:spellcasting:slots:1" value="2" level="16"/>
+			<stat name="Divine Word:spellcasting:slots:1" value="2" level="18"/>
 
 
 			<grant type="Spell" id="ID_SPELL_DIVINE_WORD_PARALYZE(INFIGE IMMOBILITATEM)" level="4" spellcasting="Divine Word"/>
